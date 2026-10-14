@@ -50,7 +50,6 @@ const projects = [
     stack: ['JavaScript', 'Node.js', 'Express', 'MongoDB', 'EJS', 'Razorpay', 'Google OAuth'],
     icon: ShoppingBag,
     featured: false,
-    demo: 'https://shopiz.site/',
     repos: [{ label: 'GitHub', url: 'https://github.com/Nimishaks123/E-Commerce' }],
   },
   {
